@@ -1,0 +1,6 @@
+-cp src
+--main Day11
+-lib heaps
+-lib hlsdl
+-hl Day11.hl
+--debug
